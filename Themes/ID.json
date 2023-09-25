@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "KazeDevID",
+  "LANGUAGE": "Indonesia",
+  "LANGCODE": "id",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Bot Anda sudah ada di versi terbaru Pak*",
+          "NEW_UPDATE": "*Ada pembaruan baru yang tersedia untuk bot!*\n\n*Perubahan:*\n",
+          "UPDATED_LOCAL": "*Berhasil diperbaharui!*"
+      },
+      "global": {
+          "botName": " Language Indonesia",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "greet2" : "Sir",
+          "pic1": "https://telegra.ph/file/68d7a3232cd523acd1450.jpg",
+          "pic2": "https://telegra.ph/file/68d7a3232cd523acd1450.jpg",
+          "pic3": "https://telegra.ph/file/68d7a3232cd523acd1450.jpg",
+          "pic4": "https://telegra.ph/file/68d7a3232cd523acd1450.jpg",
+          "pic5": "https://telegra.ph/file/68d7a3232cd523acd1450.jpg",
+          "pic6": "https://telegra.ph/file/68d7a3232cd523acd1450.jpg",
+          "pic7": "https://telegra.ph/file/68d7a3232cd523acd1450.jpg",
+           "greet" : "Sir",
+         "dotbody" : "I'm Alive.",
+          "promote": "Peran Admin Diberikan kepada Sayangku",
+          "pmallow": "*Hai, Ini Kiko*\n*Asisten Kaze.*\nKaze sedang sibuk saat ini.\nSilakan Tinggalkan Pesan Anda.\n\n_Saya akan segera memberi tahu dia tentang pesan Anda......_",
+          "pmblock": "❌ Blocked*\n\n Anda telah diblokir karena melakukan spam.",
+          "pmwarn": "✋Hii* \n Tolong jangan mengirim spam, kalau tidak saya akan memblokir Anda karena mengirim spam. _Kamu punya ${checkPermit.times} warning(s)._",
+          "permited": "Hii ${tname}*\n\n Sekarang Anda diizinkan oleh pemilik saya untuk pm sekarang.", 
+          "revoked" : "*Hii ${tname}*\n\n Izin pm Anda telah dicabut sekarang.",
+          "demote": "Uhh,Peran Admin Diambil kembali",
+          "antlink": "Link Detected.\n*Good Bye Sir*",
+          "session": "\n*Ini adalah session Anda, simpan dengan aman dan simpan dengan benar*\n_Sekarang Unggah file json ini di Repo Bercabang Anda_\n Hubungkan repo Anda ke Heroku dan *Deploy Cabang* dan Bot akan berjalan untuk Selalu",
+          "mention": "Tag User nya",
+          "title": "Kiko",
+          "footer": "Kiko Enak Tau",
+          "by": "Made by: *KazeDevID*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Apakah maksud Anda *help?*",
+          "couple_male": "*Aku tidak ingin mati sendirian, aku ingin perempuan*",
+          "couple_female": "*Aku tidak ingin mati sendirian, aku ingin laki laki*",
+          "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
+          "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 𝑆𝑖𝑟.❗",
+          "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+          "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+          "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+          "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+          "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅" 
+      },
+      "error": {
+          "text": "*Uhh,Got an Error*"
+      }
+  }
+}
